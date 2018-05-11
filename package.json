@@ -1,7 +1,7 @@
 {
   "name": "create-next-example-app",
   "scripts": {
-    "dev": "next",
+    "dev": "set PORT=3000 && NODE_ENV=development next -H \"192.9.61.49\" ",
     "build": "next build",
     "start": "next start"
   },
