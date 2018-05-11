@@ -1,4 +1,4 @@
-import Head from './head'
+import Head from './Head'
 import Link from 'next/link'
 
 const links = [
